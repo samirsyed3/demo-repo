@@ -1,2 +1,2 @@
-# demo-repo
-demo for github intro vidoe
+#demo
+description of git repository
